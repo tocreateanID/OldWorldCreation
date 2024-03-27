@@ -1,0 +1,19 @@
+----------*第1个道具*-----------
+道具图标：D:\Steam\steamapps\common\The Binding of Isaac Rebirth\mods\mymod\resources\gfx\items\collectibles\collectibles_105_dice.png
+添加CacheFlag：移速
+添加CacheFlag：弹速
+添加CacheFlag：攻击
+添加CacheFlag：眼泪特效
+交易血量：2
+给予魂心：1
+*充能数：1
+道具名：Sandevistan
+道具描述： EDGE RUNNERS
+道具图标：D:\Steam\steamapps\common\The Binding of Isaac Rebirth\mods\mymod\resources\gfx\items\collectibles\collectibles_105_dice.png
+道具图标：D:\Steam\steamapps\common\The Binding of Isaac Rebirth\mods\mymod\resources\gfx\items\collectibles\collectibles_105_dice.png
+移速 设置为 原移速加 1
+弹速 设置为 原弹速加 1.2
+攻击 设置为 原攻击加 1.2
+眼泪增加TEAR_HOMING效果
+-------===道具功能设置===-------
+使用主动时;给敌人添加Debuff：眩晕
