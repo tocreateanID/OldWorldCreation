@@ -1,4 +1,4 @@
 <items gfxroot="gfx/items/" version="1">
-		<active  name="Sandevistan" description=" EDGE RUNNERS" gfx="Sandevistan.png" cache="speed shotspeed damage tearflag " devilprice = "2"  soulhearts = "1"  maxcharges = "1"  />
+		<passive  name="Sandevistan" description="EDGE RUNNERS" gfx="Sandevistan.png" cache="speed shotspeed damage tearflag" devilprice = "2"  quality = "3" tags = "offensive tech"/>
 		
 </items>

@@ -17,11 +17,6 @@ local function PostTrailUpdate(mod, trail)
     trail:GetSprite().Color = Color(r, g, b, a, 0, 0, 0);
     local dashtime= ModName.Item.Sandevistan.getDashTime();
     if (dashtime<=0) then
-        print("dashtime=",dashtime);    
-        trail:Remove();
-    end
-    if(frame>=maxFrame)then
-        print("maxframe>",dashtime);
         trail:Remove();
     end
 end
