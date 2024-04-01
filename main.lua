@@ -10,8 +10,9 @@ end;
 Require = ModName.Require;
 --require("code.RequireData")
 ModName.Effects={
-    Trail=require("code.Effects.Trail")
+    Trail=require("code.Effects.Trail"),
 }
 ModName.Item={
-    Sandevistan = require("code.Items.Sandevistan")
+    Sandevistan = require("code.Items.Sandevistan"),
+    HorrificNecktie = require("code.Items.HorrificNecktie"),
 }

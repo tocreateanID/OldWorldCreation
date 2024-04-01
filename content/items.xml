@@ -1,4 +1,5 @@
 <items gfxroot="gfx/items/" version="1">
 		<passive  name="Sandevistan" description="EDGE RUNNERS" gfx="Sandevistan.png" cache="speed shotspeed damage tearflag" devilprice = "2"  quality = "3" tags = "offensive tech"/>
+		<passive  name="HorrificNecktie" description="Inland Empire" gfx="HorrificNecktie.png" cache="" shopprice="10"  quality = "2" blackhearts = "1" tags = "nolostbr summonable"/>
 		
 </items>

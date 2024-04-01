@@ -3,5 +3,13 @@
 		<Item Name="Sandevistan" weight="1" DecreaseBy="1" RemoveOn="0.1" />
 
 	</pool>
-
+	<Pool Name="shop">
+		<Item Name="HorrificNecktie" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+
+	</pool>
+
+	<Pool Name="goldenChest">
+		<Item Name="HorrificNecktie" weight="1" DecreaseBy="1" RemoveOn="0.1" />
+
+	</pool>
 </ItemPools>
